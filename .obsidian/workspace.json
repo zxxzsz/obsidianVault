@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "js/js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "js"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1602fb2b520f0d60",
@@ -164,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "787abfe18e2e14e9",
+  "active": "8821426c52c15e74",
   "lastOpenFiles": [
+    "js",
     "未命名 1.base",
     "未命名.base"
   ]
