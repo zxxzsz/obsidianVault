@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6ddd00ef3c907614",
+    "id": "f4d73822b90c3b9a",
     "type": "split",
     "children": [
       {
-        "id": "f350eaeba5da593f",
+        "id": "18b750f6b18d6f12",
         "type": "tabs",
         "children": [
           {
-            "id": "532e45860f88ecaa",
+            "id": "787abfe18e2e14e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "db44b1fc1b3eb991",
+    "id": "d7573104cb73bf31",
     "type": "split",
     "children": [
       {
-        "id": "b30e14866cd80875",
+        "id": "3f0584832081e21a",
         "type": "tabs",
         "children": [
           {
-            "id": "6797f1ff35d210c5",
+            "id": "8821426c52c15e74",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "fb8f1723fc54b9b5",
+            "id": "e25e7e4fc190af19",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b1ba5efc2d76ad80",
+            "id": "544deb991eba2a5d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "060c052363703f79",
+    "id": "1602fb2b520f0d60",
     "type": "split",
     "children": [
       {
-        "id": "d9250a6be6952966",
+        "id": "8bc6edc818152243",
         "type": "tabs",
         "children": [
           {
-            "id": "194637d0e4d08f4f",
+            "id": "e812951d3c4059de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "js 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "8c79ebe736c13b68",
+            "id": "e2128872843aa878",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "js 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "bf4b0cae07112cd1",
+            "id": "7f90c10453bcff87",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +135,21 @@
             }
           },
           {
-            "id": "8e9ec525f49b9af2",
+            "id": "ecef4898fe86dc13",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "js 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "30203874f390f414",
+            "id": "94453de24d98cdf8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "532e45860f88ecaa",
+  "active": "94453de24d98cdf8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "js/js.md",
     "js",
-    "obsidianVault/js/js.md",
-    "obsidianVault/js",
-    "obsidianVault"
+    "未命名 1.base",
+    "未命名.base"
   ]
 }
